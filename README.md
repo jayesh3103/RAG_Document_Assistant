@@ -1,4 +1,4 @@
-# RAG Project with LangChain and Streamlit
+# RAG Document Assistant
 
 This project implements a Retrieval-Augmented Generation (RAG) pipeline using Python, LangChain, and Streamlit. It allows users to chat with their documents by leveraging a local Large Language Model (LLM) and a vector store for efficient information retrieval.
 
